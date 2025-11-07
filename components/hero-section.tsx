@@ -28,7 +28,7 @@ export function HeroSection() {
             className="text-sm sm:text-base md:text-lg text-[#fafada] mx-auto md:mx-0 mb-10"
             style={{ lineHeight: "1.1" }}
             >
-            Descubre los auténticos sabores de México en cada bocado.<br/>
+            Descubre los auténticos sabores de calle en cada bocado.<br/>
             Preparado fresco todos los días.
         </p>
 
