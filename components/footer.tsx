@@ -8,7 +8,16 @@ export function Footer() {
           <span style={{ fontFamily: "var(--font-fascinate)" }}>
             Burger Club
           </span>
-          . Todos los derechos reservados.
+          . Todos los derechos reservados por{" "}
+          <a
+            href="https://rennyardiladev.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-[#fafada]/80"
+          >
+            rennyardiladev
+          </a>
+          .
         </p>
         <p className="text-[#fafada] text-sm mt-2">
           Síguenos en nuestras redes sociales
