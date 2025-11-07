@@ -15,7 +15,7 @@ export function Footer() {
             rel="noopener noreferrer"
             className="underline hover:text-[#fafada]/80"
           >
-            rennyardiladev
+            Renny Ardila Dev
           </a>
           .
         </p>
